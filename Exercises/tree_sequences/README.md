@@ -55,7 +55,7 @@ This way it looks like the files are in your current folder. You can run `ls` to
 
 The documentation for Relate can be found [here](https://myersgroup.github.io/relate/).
 
-> **NB:** Running Relate below, you should be away that names of input files are always supplied without the file extensions.
+> **NB:** Running Relate below, you should be aware that names of input files are always supplied without the file extensions.
 
 Relate does not accept the standard VCF file format, but instead uses a haps/sample format. You can read up on in the Relate documentation. The authors have been so kind as to supply a script to transform it. First, the vcf is converted to another file format (haplotype file format). If you want to know how it is structured, you can read about it [here](https://www.cog-genomics.org/plink/2.0/formats#haps).
 
