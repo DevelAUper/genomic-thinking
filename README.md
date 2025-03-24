@@ -47,6 +47,60 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 
 <!-- SEE 2025 PLAN BELOW!  -->
 
+
+| Week | Lecture                                                                                                | Exercise                                          |
+|----:|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
+|   5 | **Course intro and overview**, Coop chapt 1, 2, 3, [Paper: Simons Genome Diversity Project]           | [Cluster practicals]                              |
+|   6 | **Drift and the coalescent**, Ancestral recombination graph (ARG), Coop chapt 4; [Paper on Platypus]  | [Read mapping and base calling]                   |
+|   7 | **Past population demography**, HMMs, ARG, [Paper on PSMC]                                            | [Estimating past population sizes]                |
+|   8 | **Recombination**, Phasing, HMMs, ARG, PSMC [Paper on tree inference], [Review on recombination rate] | [Phasing and recombination]                       |
+|   9 | **Population structure, Incomplete lineage sorting**, HMMs, Coop chapt 6, [Review on ILS]             | [Inference of population structure and admixture] |
+|  10 | **Admixture**, HMMs, [Review on admixture], [Paper on admixture inference]                            |                                                   |
+|  11 | **Tree sequences**                                                                                    | [Tree sequences]                                  |
+|  12 | **Direct and linked selection**, Coop chapt 12, 13, revisit [Paper on tree inference]                 | [Inference of positive selection]                 |
+|  13 | **Project presentations**,                                                                            | [GWAS quality control]                            |
+|  14 | **GWAS review**, Population stratification review, Coop 99-120 (No Exercise this week)                | [Association testing]                             |
+|  15 | **Heritability**, [Review on heritability] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)               | [Estimating heritability]                         |
+|  16 | **Break**                                                                                             | **Break**                                             |
+|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** [Genetic architecture review], [Article on "omnigenic" model] ; Coop Sec. 11.0.1 (p217-221), [ Paper on exploiting ARGs in GWAS,]                            |
+|  18 | **Genomic pre-trained networks**                                                                      | Project guidance                                               |
+|  20 | **Chromatin structure and epigenetics**                                                               | Project guidance                                               |  
+
+
+
+<!-- Curriculum links -->
+[Paper: Simons Genome Diversity Project]: https://www.nature.com/articles/nature18964                                                                                                                                                                               
+[Paper on Platypus]: https://www.nature.com/articles/ng.3036                                                                                                                                                             
+[Paper on PSMC]: https://www.nature.com/articles/nature10231                                                                                                                                                          
+[Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x
+[Review on recombination rate]: https://www.nature.com/articles/s41576-020-0240-1
+[Review on ILS]: https://doi.org/10.1146/annurev-genet-120213-092532
+[Review on admixture]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349
+[Paper on admixture inference]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641
+[Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x                                                                                                                                             
+[Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
+[GWAS review]: https://
+[Population stratification review]: https://
+[Review on heritability]: https://
+[Genetic architecture review]: https://
+[Article on "omnigenic" model]: https://
+
+<!-- Exercise links -->
+[Cluster practicals]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/cluster_practicals
+[Read mapping and base calling]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/mapping_and_calling
+[Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
+[Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
+[Phasing and recombination]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/phasing
+[Inference of population structure and admixture]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/population_structure
+[Detecting archaic ancestry in modern humans]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/admixture
+[Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
+[Inference of positive selection]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/selection
+[GWAS quality control]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC
+[Association testing]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association
+[Estimating heritability]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability
+
+
+<!-- 
 1. Course intro and overview:  
    - Lecture (Kasper): Coop chapters 1, 2, 3, [Paper: Simons Genome Diversity Project](https://www.nature.com/articles/nature18964)
     - Exercise (Bjarke): [Cluster practicals](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/cluster_practicals)
@@ -71,35 +125,14 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 8. Direct and linked selection: 
     - Lecture: Coop chapters 12, 13, revisit [Paper about tree inference](https://www.nature.com/articles/s41588-019-0484-x)
     - Exercise (Bjarke): [Inference of positive selection](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/selection)
-  
-
-<ul>
-<li><b>Thursday lecture April 4. 13:15-15:00</b>:
-<ul dir="auto">
-<li dir="auto">Lecture&nbsp;(Søren): GWAS review, Population stratification review,&nbsp;<a data-href="https://github.com/cooplab/popgen-notes/releases/download/v1.2/release_popgen_notes.pdf" href="https://github.com/cooplab/popgen-notes/releases/download/v1.2/release_popgen_notes.pdf">Coop lecture notes</a>&nbsp;99-120.</li>
-<li>(No Exercise this week)</li>
-</ul>
-</li>
-</ul>
-
 9. Heritability: 
     - Lecture (Søren): [Missing heritability and mixed models review]() ; Coop Lecture notes Sec. 2.2 (p23-36) + Chap. 7 (p119-142)  
     - Exercise (Bjarke): [GWAS quality control](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC)
 10. Evolution and disease: 
     - Lecture (Søren): [Genetic architecture review]() ; [Article about "omnigenic" model]() ; Coop Lecture notes Sec. 11.0.1 (p217-221)
     - Exercise (Bjarke): [Association testing](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association)
-11. TBA: 
-    - Lecture: TBA    
-    - Exercise (Bjarke): [Estimating heritability](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability)
-12.  Project presentations: 
-     - Lecture (Kasper, Søren): None
-     - Exercise (Bjarke):  None. Focus on projects
-13.  Project guidance:   
-     - Lecture (Kasper, Søren): None
-     - Exercise (Bjarke):  None. Focus on projects
-14. Project guidance:   
-    - Lecture (Kasper, Søren): None
-    - Exercise (Bjarke):  None. Focus on projects
+  
+ -->
 
 <!-- 
 1. Course intro, propagation of genes, coalescent:  
@@ -129,19 +162,19 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 9.  Genome-wide association study (GWAS): 
     - Lecture (Søren): GWAS review, Population stratification review, [Coop lecture notes](https://github.com/cooplab/popgen-notes/releases/download/v1.2/release_popgen_notes.pdf) 99-120
     - Exercise (Bjarke): [GWAS quality control](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC)
-11. Heritability: 
+10. Heritability: 
     - Lecture (Søren): [Missing heritability and mixed models review]() ; Coop Lecture notes Sec. 2.2 (p23-36) + Chap. 7 (p119-142)     
     - Exercise (Bjarke): [Association testing](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association)
-12.  Evolution and disease: 
+11.  Evolution and disease: 
     - Lecture (Søren): [Genetic architecture review]() ; [Article about "omnigenic" model]() ; Coop Lecture notes Sec. 11.0.1 (p217-221)    
     - Exercise (Bjarke): [Estimating heritability](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability)
-13.  Project presentations: 
+12.  Project presentations: 
      - Lecture (Kasper, Søren): None
      - Exercise (Bjarke):  None. Focus on projects
-14.  Project guidance:   
+13.  Project guidance:   
      - Lecture (Kasper, Søren): None
      - Exercise (Bjarke):  None. Focus on projects
-15. Project guidance:   
+14. Project guidance:   
     - Lecture (Kasper, Søren): None
     - Exercise (Bjarke):  None. Focus on projects
   -->
