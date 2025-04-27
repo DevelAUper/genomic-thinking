@@ -62,7 +62,7 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 |  14 | **GWAS review**, Population stratification review, Coop 99-120 (No Exercise this week)                | [Association testing]                             |
 |  15 | **Heritability**, [Review on heritability] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)               | [Estimating heritability]                         |
 |  16 | **Break**                                                                                             | **Break**                                             |
-|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** [Genetic architecture review], [Article on "omnigenic" model] ; Coop Sec. 11.0.1 (p217-221), [Paper on exploiting ARGs in GWAS]                            |
+|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** Coop Sec. 11.0.1 (p217-221), [Paper on exploiting ARGs in GWAS]                            |
 |  18 | **Genomic pre-trained networks**                                                                      | Project guidance                                               |
 |  20 | **Chromatin structure and epigenetics**                                                               | Project guidance                                               |  
 
