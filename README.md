@@ -62,7 +62,7 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 |  14 | **GWAS review**, Population stratification review, Coop 99-120 (No Exercise this week)                | [Association testing]                             |
 |  15 | **Heritability**, [Review on heritability] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)               | [Estimating heritability]                         |
 |  16 | **Break**                                                                                             | **Break**                                             |
-|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** [Genetic architecture review], [Article on "omnigenic" model] ; Coop Sec. 11.0.1 (p217-221), [ Paper on exploiting ARGs in GWAS,]                            |
+|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** [Genetic architecture review], [Article on "omnigenic" model] ; Coop Sec. 11.0.1 (p217-221), [Paper on exploiting ARGs in GWAS]                            |
 |  18 | **Genomic pre-trained networks**                                                                      | Project guidance                                               |
 |  20 | **Chromatin structure and epigenetics**                                                               | Project guidance                                               |  
 
@@ -78,6 +78,10 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 [Review on admixture]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349
 [Paper on admixture inference]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641
 [Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x                                                                                                                                             
+[Paper on exploiting ARGs in GWAS]: https://www.nature.com/articles/s41588-023-01379-x
+
+<!-- https://brightspace.au.dk/d2l/common/viewFile.d2lfile/Content/L2NvbnRlbnQvZW5mb3JjZWQvMTY2Mjk3LUxSNDA2NTEvYXJnbmVlZGxlLnBkZg/argneedle.pdf?ou=166297 -->
+
 [Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
 [GWAS review]: https://
 [Population stratification review]: https://
