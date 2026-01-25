@@ -1,0 +1,47 @@
+
+# Exam info {.unnumbered #sec-exam}
+
+
+The curriculum is the weekly reading material in the course plan and the papers associated with your final project. You are expected to account for the ideas, principles, and mechanisms of models and inferences approaches described in the curriculum.  Think of the mathematical descriptions as your guide to understanding these things and how to ensure that you understand them. We evaluate your knowledge and understanding, not your ability to jot down the math, at the exam.
+
+We will spend ~30 minutes per student for the exam, and your examination will take about 25 minutes. The exam proceeds as follows:
+
+~7 min project presentation followed by ~5 min of questions.
+~7 minutes presentation of a randomly drawn topic followed by
+~7 minutes of questions in the drawn topic and remaining curriculum.
+
+**Presenting your project:** 
+
+In the first 7 minutes, you will present your report. You can present at most eight prepared slides, which can only have figures and results. You present slides from your own computer. We will then spend 5 minutes asking questions about the report and the papers accompanying your project.
+
+**Presenting a randomly drawn topic:** 
+
+NB: In all topics you are expected to be able to explain the effects on diversity and LD and how we can use the coalescent/ARG/TreeSeqs to that translates into characteristic of tree sequences (ARG).
+
+You will draw one of these questions:
+
+DNA evolution give rise to genetic diversity and how we can model it (Coalescent, ARG, Trees, Model assumptions, Drift-mutation equilibrium explained as mutations on trees, inference methods, etc )
+
+1. Population structure (Coalescent, ARG, HMM, SMC, Trees, PCA)
+2. Incomplete lineage sorting and species trees (Coalescent, ARG, HMM, SMC, Trees, Ne)
+3. Demography (Coalescent, ARG, HMM, SMC, Trees, PSMC)
+4. Positive selection (Coalescent, ARG, HMM, SMC, Trees, PCA, RELATE)
+5. Admixture (Coalescent, ARG, HMM, SMC, Trees)
+6. GWAS (Chi-square test, logistic regression, linear mixed models, polygenic risk score, Coalescent, ARG, HMM, SMC, Trees)
+7. Heritablity (Phenotypic variance, genetic variance, measures of heritablity, sources of genetic variance, Coalescent, ARG, HMM, SMC, Trees)
+
+You cannot use slides to present your topic, but you are welcome to use the whiteboard if you wish. You have 7 minutes to present your topic. You are allowed to bring prepared notes for each topic. If you do not spend 7 minutes, we will ask questions about the topic for the remaining time.
+
+**Questions about the entire curriculum:**
+
+In the last 7 minutes, we will ask questions about the general curriculum.
+
+**Your grade:**
+
+Your presentation of the report and its oral presentation contribute the same as the remaining oral examination towards your final grade.
+
+**Time and place**
+
+The exam is on June 20 and begins at 9:00. The exam will proceed with students in the order listed below. We will spend 30 minutes per student, so from the list, you know roughly when it is your turn. If a student does not attend the exam, we will take the next one on the list. So, make sure to show up well before your scheduled slot.
+
+Censor: Rasmus Heller from University of Copenhagen

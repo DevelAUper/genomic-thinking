@@ -1,0 +1,171 @@
+---
+panels: true
+---
+
+::: {.content-hidden when-meta="panels"}
+
+# Week plan {-}
+
+:::
+
+
+
+|----:|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
+|   5 | **Course intro and overview**, Coop chapt 1, 2, 3, [Paper: Simons Genome Diversity Project]           | [Cluster practicals]                              |
+|   6 | **Drift and the coalescent**, Ancestral recombination graph (ARG), Coop chapt 4; [Paper on Platypus]  | [Read mapping and base calling]                   |
+|   7 | **Past population demography**, HMMs, ARG, [Paper on PSMC]                                            | [Estimating past population sizes]                |
+|   8 | **Recombination**, Phasing, HMMs, ARG, PSMC [Paper on tree inference], [Review on recombination rate] | [Phasing and recombination]                       |
+|   9 | **Population structure, Incomplete lineage sorting**, HMMs, Coop chapt 6, [Review on ILS]             | [Inference of population structure and admixture] |
+|  10 | **Admixture**, HMMs, [Review on admixture], [Paper on admixture inference]                            |                                                   |
+|  11 | **Tree sequences**                                                                                    | [Tree sequences]                                  |
+|  12 | **Direct and linked selection**, Coop chapt 12, 13, revisit [Paper on tree inference]                 | [Inference of positive selection]                 |
+|  13 | **Projects, Popgen overview**, [Mandatory project description]                                     | [GWAS quality control]                            |
+|  14 | **GWAS review**, Population stratification review, Coop 99-120 (No Exercise this week)                | [Association testing]                             |
+|  15 | **Heritability**, [Review on heritability and LMM] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)               | [Estimating heritability]                         |
+|  16 | **Break**                                                                                             | **Break**                                             |
+|  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** Coop Sec. 11.0.1 (p217-221), [Paper on exploiting ARGs in GWAS]                            |
+|  18 | **Genomic pre-trained networks**                                                                      | Project guidance                                               |
+|  20 | **Chromatin structure and epigenetics**                                                               | Project guidance                                               |  
+
+
+
+## Week 1 (5) {.unnumbered}
+
+**Lectures:**  Course intro and overview: Coop chapt 1, 2, 3, [Paper: Simons Genome Diversity Project] 
+
+**Exercises:** [Cluster practicals] 
+
+
+## Week 2 (6) {.unnumbered}
+
+**Lectures:**  Drift and the coalescent: Coop chapt 4; [Paper on Platypus]
+
+**Exercises:** [Read mapping and base calling] 
+
+
+## Week 3 (7) {.unnumbered}
+
+**Reading:**  
+
+**Lectures:**  Past population demography, HMMs, ARG, [Paper on PSMC]
+
+**Exercises:** [Estimating past population sizes]
+
+
+## Week 4 (8) {.unnumbered}
+
+**Lectures:**  Recombination, Phasing, HMMs, ARG, PSMC [Paper on tree inference], [Review on recombination rate]
+
+**Exercises:** [Phasing and recombination] 
+
+
+## Week 5 (9) {.unnumbered}
+
+**Lectures:**  Population structure, Incomplete lineage sorting**, HMMs, Coop chapt 6, [Review on ILS] 
+
+**Exercises:** [Inference of population structure and admixture]
+
+
+## Week 6 (10) {.unnumbered}
+
+**Lectures:**  Admixture, HMMs, [Review on admixture], [Paper on admixture inference]  
+
+**Exercises:** [Tree sequences]
+
+
+## Week 7 (11) {.unnumbered}
+
+**Lectures:** Direct and linked selection, Coop chapt 12, 13, revisit [Paper on tree inference]  
+
+**Exercises:** [Inference of positive selection]  
+
+
+## Week 8 (12) {.unnumbered}
+
+**Lectures:**  Projects, Popgen overview  [Mandatory project description] 
+
+**Exercises:** [GWAS quality control] 
+
+
+## Week 9 (13) {.unnumbered}
+
+**Lectures:**  GWAS review, Population stratification review, Coop 99-120 
+
+**Exercises:** [Association testing] 
+
+
+## Week 10 (14) {.unnumbered}
+
+**Reading:**  
+
+**Lectures:**  Heritability, [Review on heritability and LMM] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)
+
+**Exercises:**  [Estimating heritability]
+
+
+## Week 11 (15) {.unnumbered}
+
+**Lectures:**  Project
+
+**Exercises:** Project
+
+
+## Week 12 (16) {.unnumbered}
+
+**Lectures:**  Project
+
+**Exercises:**    SKÆRTORSDAG
+
+
+## Week 13 (17) {.unnumbered}
+
+**Lectures:**  2. PÅSKEDAG
+
+**Exercises:** Project
+
+
+## Week 14 (18) {.unnumbered}
+
+**Lectures:**  Project
+
+**Exercises:** Project
+
+
+
+<!-- Curriculum links -->
+[Paper: Simons Genome Diversity Project]: https://www.nature.com/articles/nature18964                                                                                                                                                                               
+[Paper on Platypus]: https://www.nature.com/articles/ng.3036                                                                                                                                                             
+[Paper on PSMC]: https://www.nature.com/articles/nature10231                                                                                                                                                          
+[Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x
+[Review on recombination rate]: https://www.nature.com/articles/s41576-020-0240-1
+[Review on ILS]: https://doi.org/10.1146/annurev-genet-120213-092532
+[Review on admixture]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349
+[Paper on admixture inference]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641
+[Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x                                                                                                                                             
+[Paper on exploiting ARGs in GWAS]: https://www.nature.com/articles/s41588-023-01379-x
+
+<!-- https://brightspace.au.dk/d2l/common/viewFile.d2lfile/Content/L2NvbnRlbnQvZW5mb3JjZWQvMTY2Mjk3LUxSNDA2NTEvYXJnbmVlZGxlLnBkZg/argneedle.pdf?ou=166297 -->
+
+[Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
+[GWAS review]: https://
+[Population stratification review]: https://
+[Review on heritability and LMM]: https://dl.acm.org/doi/10.1145/2817827
+[Genetic architecture review]: https://
+[Article on "omnigenic" model]: https://
+
+<!-- Exercise links -->
+[Cluster practicals]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/cluster_practicals
+[Read mapping and base calling]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/mapping_and_calling
+[Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
+[Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
+[Phasing and recombination]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/phasing
+[Inference of population structure and admixture]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/population_structure
+[Detecting archaic ancestry in modern humans]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/admixture
+[Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
+[Inference of positive selection]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/selection
+[GWAS quality control]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC
+[Association testing]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association
+[Estimating heritability]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability
+
+<!-- Project links -->
+[Mandatory project description]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Projects

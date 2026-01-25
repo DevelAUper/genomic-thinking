@@ -1,0 +1,27 @@
+---
+# title-block-banner: images/banner3.png
+title-block-banner: "#003257"
+title-block-banner-color: "#FFFFFF"
+panels: true
+---
+
+
+# Welcome {.unnumbered}
+
+[brightspace]: (https://brightspace.au.dk/d2l/home/203494)
+
+This is the homepage for the AU course Genomic Thinking. You will find all course content here. The [Brightspace course page][brightspace] is only used for communication, and assignments.
+
+
+
+# Schedule {.unnumbered}
+
+
+::: {.panel-tabset }
+
+{{< include weekplan.qmd >}}
+
+:::
+
+
+

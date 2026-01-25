@@ -1,0 +1,68 @@
+project:
+  type: book
+  output-dir: _book
+  # render: 
+  #   - "!exercises/GWAS_QC/step_by_step_tutorial.qmd"
+
+book:
+  title: "Genomic Thinking"
+  # title: "<br>"
+  subtitle: "AU course: Genomic Thinking"
+  # description: 'A course in bioinformatics and programming'
+  # author: "Kasper Munch"
+  sidebar:
+    title: "Content"
+    collapse-level: 2
+    background: "white"      
+  # downloads: [pdf]
+  chapters:
+    - index.qmd
+    - about.qmd
+    - weekplan.qmd
+    - curriculum.qmd
+    # - exam.qmd
+    - slides2026.qmd
+    # - part: "Lecture notes"
+    #   chapters:
+    #   - lecture_notes/coalescent.qmd
+    - part: "Exercises"
+      chapters: 
+      - exercises/cluster_practicals/README.md
+      - exercises/mapping_and_calling/README.md
+      - exercises/phasing/README.md
+      - exercises/arg_and_smc/README.md
+      - exercises/historical_pop_size/README.md
+      - exercises/population_structure/README.md
+      - exercises/admixture/README.md
+      - exercises/tree_sequences/README.md
+      - exercises/selection/README.md
+      - exercises/archaic_humans/README.md
+#      - exercises/f_statistics/README.md
+      - exercises/GWAS_QC/README.md
+      - exercises/GWAS_association/README.md
+      - exercises/heritability/README.md
+
+crossref:
+  sec-prefix: "exercise"
+  
+# embed-resources: true
+
+format:
+  html:
+    # mainfont: "Passata"
+    theme: 
+      - default
+      - custom.scss
+    toc-depth: 1
+    highlight-style: kate 
+    fig-width: 5
+    fig-height: 3
+    filters: 
+      - quarto
+      - headers.lua
+    notebook-links: global
+    # number-sections: false
+    number-sections: true  
+    number-depth: 1
+    code-block-bg: "#f9f9f9"
+    # code-tools: true    
