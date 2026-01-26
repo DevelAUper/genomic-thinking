@@ -1,0 +1,56 @@
+
+# Lecture slides {.unnumbered}
+
+**NB:** You need to be logged into Brightspace to download the slides.
+
+<!-- Upload slides to Brightspace using this link: -->
+<!-- https://brightspace.au.dk/d2l/lp/manageFiles/main.d2l?ou=185077 -->
+
+- Week 1
+    - [Monday](week1_monday.pdf)
+<!--   
+    - [Thursday](week1_thursday.pdf)
+- Week 2
+    - [Monday](week2_monday.pdf)
+    - [Thursday](week2_thursday.pdf)
+- Week 3
+    - [Monday](week3_monday.pdf)
+    - [Thursday](week3_thursday.pdf)
+- Week 4
+    - [Monday](week4_monday.pdf)
+    - [Thursday](week4_thursday.pdf)
+- Week 5
+    - [Monday](week5_monday.pdf)
+    - [Thursday](week5_thursday.pdf)
+- Week 6
+    - [Monday](week6_monday.pdf)
+    - [Thursday](week6_thursday.pdf)
+- Week 7
+    - [Monday](week7_monday.pdf)
+    - [Thursday](week7_thursday.pdf)
+- Week 8
+    - [Monday](week8_monday.pdf)
+    - [Thursday](week8_thursday.pdf)
+- Week 9
+    - [Monday](week9_monday.pdf)
+    - [Thursday](week9_thursday.pdf)
+- Week 10
+    - [Monday](week10_monday.pdf)
+    - [Thursday](week10_thursday.pdf)
+- Week 11
+    - [Monday](week11_monday.pdf)
+    - [Thursday](week11_thursday.pdf)
+- Week 12
+    - [Monday](week12_monday.pdf)
+    - [Thursday](week12_thursday.pdf)
+- Week 13
+    - [Monday](week13_monday.pdf)
+    - [Thursday](week13_thursday.pdf)
+- Week 14
+    - [Monday](week14_monday.pdf)
+    - [Thursday](week14_thursday.pdf)
+- Week 15
+    - [Monday](week15_monday.pdf)
+    - [Thursday](week15_thursday.pdf)
+  
+  -->
