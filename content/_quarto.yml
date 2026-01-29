@@ -19,9 +19,9 @@ book:
     - index.qmd
     - about.qmd
     - weekplan.qmd
-    - curriculum.qmd
+    # - curriculum.qmd
     # - exam.qmd
-    - slides2026.qmd
+    - slides_2026/slides.qmd
     # - part: "Lecture notes"
     #   chapters:
     #   - lecture_notes/coalescent.qmd
