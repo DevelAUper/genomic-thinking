@@ -14,7 +14,7 @@ The participants must, at the end of the course, be able to:
 
 The course introduces fundamental concepts in population genomics, from generating population genetic data sets to the most common population genetic analyses and association studies. The course's first part focuses on generating population genetic data sets. The second part introduces the most common population genetic analyses and their theoretical background. Here, topics include analysis of demography, population structure, recombination, and selection. The last part of the course focuses on applications of population genetic data sets for association studies relating to human health.
 
-## Curriculum
+<!-- ## Curriculum
 The curriculum for each week is listed below. "Coop" refers to a set of [lecture notes by Graham Coop](https://github.com/cooplab/popgen-notes/releases/download/v1.2/minicoop.pdf) that we will use throughout the course.
 
 ## Padlet
@@ -41,12 +41,12 @@ Lectures/discussions are on Mondays from 12:15 to 15:00. You can see the curricu
 
 
 ## Exercises
-Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to the exercises hosted on the GitHub page for the course.
+Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to the exercises hosted on the GitHub page for the course. -->
 
-## Week plan    
+<!-- ## Week plan     -->
 
 <!-- SEE 2025 PLAN BELOW!  -->
-
+<!-- 
 
 | Week | Lecture                                                                                                | Exercise                                          |
 |----:|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
@@ -65,11 +65,11 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 |  17 | **Break**                                                                                             | **Special lecture: GWAS meets ARGs, Evolution and disease** Coop Sec. 11.0.1 (p217-221), [Paper on exploiting ARGs in GWAS]                            |
 |  18 | **Genomic pre-trained networks**                                                                      | Project guidance                                               |
 |  20 | **Chromatin structure and epigenetics**                                                               | Project guidance                                               |  
-
+ -->
 
 
 <!-- Curriculum links -->
-[Paper: Simons Genome Diversity Project]: https://www.nature.com/articles/nature18964                                                                                                                                                                               
+<!-- [Paper: Simons Genome Diversity Project]: https://www.nature.com/articles/nature18964                                                                                                                                                                               
 [Paper on Platypus]: https://www.nature.com/articles/ng.3036                                                                                                                                                             
 [Paper on PSMC]: https://www.nature.com/articles/nature10231                                                                                                                                                          
 [Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x
@@ -78,19 +78,19 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 [Review on admixture]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349
 [Paper on admixture inference]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641
 [Paper on tree inference]: https://www.nature.com/articles/s41588-019-0484-x                                                                                                                                             
-[Paper on exploiting ARGs in GWAS]: https://www.nature.com/articles/s41588-023-01379-x
+[Paper on exploiting ARGs in GWAS]: https://www.nature.com/articles/s41588-023-01379-x -->
 
 <!-- https://brightspace.au.dk/d2l/common/viewFile.d2lfile/Content/L2NvbnRlbnQvZW5mb3JjZWQvMTY2Mjk3LUxSNDA2NTEvYXJnbmVlZGxlLnBkZg/argneedle.pdf?ou=166297 -->
-
+<!-- 
 [Tree sequences]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences
 [GWAS review]: https://
 [Population stratification review]: https://
 [Review on heritability and LMM]: https://dl.acm.org/doi/10.1145/2817827
 [Genetic architecture review]: https://
-[Article on "omnigenic" model]: https://
+[Article on "omnigenic" model]: https:// -->
 
 <!-- Exercise links -->
-[Cluster practicals]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/cluster_practicals
+<!-- [Cluster practicals]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/cluster_practicals
 [Read mapping and base calling]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/mapping_and_calling
 [Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
 [Estimating past population sizes]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography
@@ -101,10 +101,10 @@ Exercises are on Thursdays from 12:15 to 14:00. The week plan below has links to
 [Inference of positive selection]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/selection
 [GWAS quality control]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC
 [Association testing]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association
-[Estimating heritability]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability
+[Estimating heritability]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability -->
 
 <!-- Project links -->
-[Mandatory project description]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Projects
+<!-- [Mandatory project description]: https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Projects -->
 
 <!-- 
 1. Course intro and overview:  
