@@ -2,6 +2,8 @@
 title: Browsing ARGs
 ---
 
+## Exercise setup
+
 Make a folder called arg-dashboard
 
     mkdir arg-dashboard
@@ -22,14 +24,10 @@ Install the packages:
 
     pixi add jupyter nodejs "jupyter-server-proxy>=4,<5" argdash
 
-Download [this notebook]() to the folder and open it.
+Download the notebook to your folder:
 
+    wget https://raw.githubusercontent.com/munch-group/genomic-thinking/refs/heads/master/content/exercises/arg-dashboard/arg-dashboard.ipynb
 
-
-
-
-
-Download this notebook to the folder
 
 ## Exercise 1
 
