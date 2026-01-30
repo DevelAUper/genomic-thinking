@@ -3,139 +3,153 @@ panels: true
 ---
 
 ::: {.content-hidden when-meta="panels"}
-
-# Week plan {-}
-
+# Week plan {.unnumbered}
 :::
 
 [Schedule for student presentations](https://docs.google.com/spreadsheets/d/1t0UzO-aOj53uVPh39hG9EYR0AvrWdXj-uPFNdFWH660/edit?usp=sharing)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## 1 {.unnumbered}
 
-**Week 5**
+### **Week 5**
 
-**Lectures:**  Course intro and overview: Coop chapt 1, 2, 3, [Paper: Simons Genome Diversity Project] 
+**Lectures:** Course intro and overview: Coop chapt 1, 2, 3
+**Exercises:** [Cluster practicals](exercises/cluster_practicals/README.md)
 
-**Exercises:** [Cluster practicals] 
-
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 2 {.unnumbered}
 
-**Week 6**
+### **Week 6**
 
-**Lectures:**  Drift and the coalescent: Coop chapt 4; [Paper on Platypus]
+**Lectures:** The Coalescent and the ARG: Coop chapt 4, [Paper: Simons Genome Diversity Project] <!-- [Paper on Platypus] -->
 
-**Exercises:** [Read mapping and base calling] 
+**Exercises:** [Browsing ARGs](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/mapping_and_calling)
 
+<!-- **Exercises:** [Read mapping and base calling](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/mapping_and_calling) -->
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 3 {.unnumbered}
 
-**Week 7**
+### **Week 7**
 
-**Reading:**  
+**Reading:**
 
-**Lectures:**  Past population demography, HMMs, ARG, [Paper on PSMC]
+**Lectures:** Past population demography, HMMs, ARG, [Paper on PSMC](https://www.nature.com/articles/nature10231)
 
-**Exercises:** [Estimating past population sizes]
+**Exercises:** [Estimating past population sizes](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/demography)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 4 {.unnumbered}
 
-**Week 9**
+### **Week 8**
 
-**Lectures:**  Recombination, Phasing, HMMs, ARG, PSMC [Paper on tree inference], [Review on recombination rate]
+**Lectures:** Recombination, Phasing, HMMs, ARG, PSMC [Paper on tree inference](https://www.nature.com/articles/s41588-019-0484-x), [Review on recombination rate](https://www.nature.com/articles/s41576-020-0240-1)
 
-**Exercises:** [Phasing and recombination] 
-
+**Exercises:** [Phasing and recombination](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/phasing)
 
 ## 5 {.unnumbered}
 
-**Week 9**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-**Lectures:**  Population structure, Incomplete lineage sorting**, HMMs, Coop chapt 6, [Review on ILS] 
+### **Week 9**
 
-**Exercises:** [Inference of population structure and admixture]
+**Lectures:** Population structure, Incomplete lineage sorting\*\*, HMMs, Coop chapt 6, [Review on ILS](https://doi.org/10.1146/annurev-genet-120213-092532)
 
+**Exercises:** [Inference of population structure and admixture](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/population_structure)
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 6 {.unnumbered}
 
-**Week 10**
+### **Week 10**
 
-**Lectures:**  Admixture, HMMs, [Review on admixture], [Paper on admixture inference]  
+**Lectures:** Admixture, HMMs, [Review on admixture](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349), [Paper on admixture inference](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641)
 
-**Exercises:** [Tree sequences]
+**Exercises:** [Tree sequences](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/tree_sequences)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 7 {.unnumbered}
 
-**Week 11**
+### **Week 11**
 
-**Lectures:** Direct and linked selection, Coop chapt 12, 13, revisit [Paper on tree inference]  
+**Lectures:** Direct and linked selection, Coop chapt 12, 13, revisit [Paper on tree inference](https://www.nature.com/articles/s41588-019-0484-x)
 
-**Exercises:** [Inference of positive selection]  
+**Exercises:** [Inference of positive selection](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/selection)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 8 {.unnumbered}
 
-**Week 12**
+### **Week 12**
 
-**Lectures:**  Projects, Popgen overview  [Mandatory project description] 
+**Lectures:** Projects, Popgen overview [Mandatory project description](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Projects)
 
-**Exercises:** [GWAS quality control] 
+**Exercises:** [GWAS quality control](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_QC)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 9 {.unnumbered}
 
-**Week 13**
+### **Week 13**
 
-**Lectures:**  GWAS review, Population stratification review, Coop 99-120 
+**Lectures:** GWAS review, Population stratification review, Coop 99-120
 
-**Exercises:** [Association testing] 
+**Exercises:** [Association testing](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/GWAS_association)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 10 {.unnumbered}
 
-**Week 14**
+### **Week 14**
 
-**Reading:**  
+**Reading:**
 
-**Lectures:**  Heritability, [Review on heritability and LMM] ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)
+**Lectures:** Heritability, [Review on heritability and LMM](https://dl.acm.org/doi/10.1145/2817827) ; Coop Sec 2.2 (p23-36) + Chapt 7 (p119-142)
 
-**Exercises:**  [Estimating heritability]
+**Exercises:** [Estimating heritability](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Exercises/heritability)
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 11 {.unnumbered}
 
-**Week 15**
+### **Week 15**
 
-**Lectures:**  Project
+**Lectures:** Project
 
 **Exercises:** Project
-
 
 ## 12 {.unnumbered}
 
-**Week 16**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-**Lectures:**  Project
+### **Week 16**
 
-**Exercises:**    SKÆRTORSDAG
+**Lectures:** Project
 
+**Exercises:** SKÆRTORSDAG
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 13 {.unnumbered}
 
-**Week 17**
+### **Week 17**
 
-**Lectures:**  2. PÅSKEDAG
+**Lectures:** 2. PÅSKEDAG
 
 **Exercises:** Project
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 14 {.unnumbered}
 
-**Week 18**
+### **Week 18**
 
-**Lectures:**  Project
+**Lectures:** Project
 
 **Exercises:** Project
 
