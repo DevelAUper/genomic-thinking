@@ -12,7 +12,7 @@ panels: true
 
 ## 1 {.unnumbered}
 
-### **Week 5**
+**(Week 5)**
 
 **Lectures:** Course intro and overview: Coop chapt 1, 2, 3
 **Exercises:** [Cluster practicals](exercises/cluster_practicals/README.md)
@@ -21,7 +21,7 @@ panels: true
 
 ## 2 {.unnumbered}
 
-### **Week 6**
+### Week 6
 
 **Lectures:** The Coalescent and the ARG: Coop chapt 4, [Paper: Simons Genome Diversity Project] <!-- [Paper on Platypus] -->
 
@@ -31,9 +31,9 @@ panels: true
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## 3 {.unnumbered}
+## 3 {.unnumbered} 
 
-### **Week 7**
+**(Week 7)** <!-- TRY TO GET THIS WEEK OFF -->
 
 **Lectures:** Population structure, Incomplete lineage sorting, HMMs, Coop chapt 6, [Review on ILS](https://doi.org/10.1146/annurev-genet-120213-092532)
 
@@ -53,9 +53,9 @@ panels: true
 
 ## 5 {.unnumbered}
 
-### **Week 9**
+**(Week 9)**
 
-### **Week 8**
+**(Week 8)**
 
 **Lectures:** HMMs, ARG [Paper on tree inference](https://www.nature.com/articles/s41588-019-0484-x) <!--, [Review on recombination rate](https://www.nature.com/articles/s41576-020-0240-1) -->
 
@@ -65,7 +65,7 @@ panels: true
 
 ## 6 {.unnumbered}
 
-### **Week 10**
+**(Week 10)**
 
 **Lectures:** Admixture, HMMs, [Review on admixture](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007349), [Paper on admixture inference](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007641)
 
@@ -75,7 +75,7 @@ panels: true
 
 ## 7 {.unnumbered}
 
-### **Week 11**
+**(Week 11)**
 
 **Lectures:** Direct and linked selection, Coop chapt 12, 13
 
@@ -85,7 +85,7 @@ panels: true
 
 ## 8 {.unnumbered}
 
-### **Week 12**
+**(Week 12)**
 
 **Lectures:** Projects, Popgen overview [Mandatory project description](https://github.com/kaspermunch/PopulationGenomicsCourse/tree/master/Projects)
 
@@ -95,7 +95,7 @@ panels: true
 
 ## 9 {.unnumbered}
 
-### **Week 13**
+**(Week 13)**
 
 **Lectures:** GWAS review, Population stratification review, Coop 99-120
 
@@ -105,7 +105,7 @@ panels: true
 
 ## 10 {.unnumbered}
 
-### **Week 14**
+**(Week 14)**
 
 **Reading:**
 
@@ -117,7 +117,7 @@ panels: true
 
 ## 11 {.unnumbered}
 
-### **Week 15**
+**(Week 15)**
 
 **Lectures:** Project
 
@@ -127,7 +127,7 @@ panels: true
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### **Week 16**
+**(Week 16)**
 
 **Lectures:** Project
 
@@ -137,7 +137,7 @@ panels: true
 
 ## 13 {.unnumbered}
 
-### **Week 17**
+**(Week 17)**
 
 **Lectures:** 2. PÅSKEDAG
 
@@ -147,7 +147,7 @@ panels: true
 
 ## 14 {.unnumbered}
 
-### **Week 18**
+**(Week 18)**
 
 **Lectures:** Project
 

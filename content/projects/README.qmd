@@ -1,4 +1,3 @@
-
 # Project description and requirements
 
 The last part of this course focus on applying the knowledge acquired during these 10 weeks into real genetic datasets. We encourage you to work on the project in class Monday and Thursday where one (or several of us) will be there to guide you and answer questions. 
@@ -18,15 +17,15 @@ The requirements of the report are:
  
  * It must be in a PDF format.
 
-You can choose between three different projects:
+<!-- You can choose between three different projects:
 
 1. **Selective sweeps on chromosome 3**
 
 2. **GWAS of eye color or height**
 
-3. **Exploring non-African archaic segments**
+3. **Exploring non-African archaic segments** -->
 
-Each project lists two relevant papers. The two papers that go with the project you choose are included in your curriculum for the oral exam.
+The two papers that go with your project are included in your curriculum for the oral exam.
 
 ## Deadline
 
@@ -36,12 +35,10 @@ TBA, probably early June.
 ## Submission
 
 The project needs to be submitted through Brightspace. 
-The name of your report must state your *name* and the chosen *project*:
-
-MYNAME_archaic.pdf, MYNAME_xchromosome.pdf or MYNAME_GWAS.pdf
+The name of your report file must state your name: FIRSTNAME_LASTNAME.pdf
 
 -----------------------------------------------------------------------------------------------
-
+<!-- 
 # Positive selection in the chromosome 3 region 3p21.31
 
 The 3p21.31 region on the human chromosome 3 spans about five megabases where positive selection seems to act recurrently. Previously published papers suggest that genes in the region have been under selection on multiple occasions in both African humans, in the ancestors of humans and chimpanzees, and more generally across primates. Why strong selection so often affects this region and which genes this selection affects is not really known. With your newly acquired skills, you can apply the most advanced population genomic methods and produce an updated inference of selection in Africans. For this project, you have phased genotypes for chr3:46000000-54000000 individuals from the following populations:
@@ -59,7 +56,7 @@ Make yourself familiar with the study populations. Where in Africa are they? How
 ## Investigate the following
 
 A. Perform an Fst scan between sets of populations in a sliding window of 100 SNP positions, comparing at least five pairs of populations. 
-<!-- You can also use [tskit](https://tskit.dev/tskit/docs/stable/introduction.html) to compute Fst from the tree sequences you produce with Relate.  -->
+
 Identify the Fst outlier regions in each case.
 
 B. Use Relate on all the individuals and visualize trees (using Relate or [tskit](https://tskit.dev/tskit/docs/stable/introduction.html)) to get an impression of the relationship between the populations. How does this relate to your Fst results?
@@ -92,7 +89,8 @@ Data for the project can be found in this folder on the cluster:
 ~/populationgenomics/project_data/chr3region
 ```
 
-<!-- 
+::: {.content-hidden when-format="html"}
+
 ```
 ~/populationgenomics/project_data/chr3region/chr3_all_460_540_phased.vcf.gz
 ~/populationgenomics/project_data/chr3region/chr3_ESN_460_540_phased.vcf.gz
@@ -110,8 +108,10 @@ Data for the project can be found in this folder on the cluster:
 ~/populationgenomics/project_data/chr3region/human_ancestor_3.fa
 ``` 
 
-The files are VCF files for all individuals and for each African population seperately. Each file has a corresponding file with the individuals included. The last two files are a mask file and an ancestor sequence file used by Relate. The files are named as in the Relate exercises.
--->
+
+The files are VCF files for all individuals and for each African population separately. Each file has a corresponding file with the individuals included. The last two files are a mask file and an ancestor sequence file used by Relate. The files are named as in the Relate exercises.
+
+:::
 
 In your project directory, run these commands to create links to the main data files:
 
@@ -206,18 +206,14 @@ To run separate analyses for each of the populations populations: Yoruba in Ibad
 ~/populationgenomics/software/relate/scripts/DetectSelection/DetectSelection.sh -i 1000g_chr3_AFR_LWK -m 1.25e-8 --poplabels LWK.poplabels -o 1000g_chr3_AFR_LWK_selection
 ~/populationgenomics/software/relate/bin/RelateFileFormats --mode ConvertToTreeSequence -i 1000g_chr3_AFR_LWK -o 1000g_chr3_AFR_LWK --poplabels LWK.poplabels 
 ```
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------- 
+ -->
 
 
 <!-- 
+-----------------------------------------------------------------------------------------------
 ## Population Genetics on X-chromosome 
 
------------------------------------------------------------------------------------------------
 
 In this project you will perform an extension of the analysis you did in the exercise on selective sweeps. You will identify regions affected by positive selection on the X chromosome by comparing patterns of genetic variation within and between human populations. 
 
@@ -271,11 +267,10 @@ metadata.txt: A text file containing the population and region of all individual
 
 gencode.v30lift37.annotation.gtf.gz: Gtf file containing the gene annotation for humans (assembly version Hg19; the same used in the Simons Diversity Project). 
 
------------------------------------------------------------------------------------------------ 
 
--->
 
 -----------------------------------------------------------------------------------------------
+-->
 
 # GWAS of eye color or height
 
@@ -317,7 +312,7 @@ Data for the project can be found in this folder on the cluster:
 ~/populationgenomics/project_data/GWAS
 ```
 
-
+<!-- 
 -----------------------------------------------------------------------------------------------
 
 # Exploring non-African archaic segments
@@ -362,4 +357,4 @@ The files are:
 
 - ArchaicSegments.txt: This file is formatted the same way as the one you used for the archaic admixture exercise.
 - SNP.txt: This file has all the non-African SNPs that remain after removing all SNPs found in (Subsaharan) Africa. When each SNP is found in any of the high-coverage archaic genomes (Altai or Vindija Neanderthals or the Denisova), it is labeled as such. Otherwise, it is labeled "human".
-
+ -->
