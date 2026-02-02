@@ -4,7 +4,7 @@ title: Browsing ARGs
 
 ## Exercise setup
 
-Make a folder called arg-dashboard
+Make a folder called `arg-dashboard`
 
     mkdir arg-dashboard
 
@@ -16,7 +16,7 @@ Initialize a pixi environment
 
     pixi init
 
-Add the munch-group channel:
+Add the `munch-group` channel:
 
     pixi workspace channel add munch-group
 
@@ -24,10 +24,11 @@ Install the packages:
 
     pixi add jupyter nodejs "jupyter-server-proxy>=4,<5" argdash
 
-Download the notebook to your folder:
+Download the notebook to by running this command in your `arg-dashboard` folder:
 
     wget https://raw.githubusercontent.com/munch-group/genomic-thinking/refs/heads/master/content/exercises/arg-dashboard/arg-dashboard.ipynb
 
+Open the notebook in VS Code and execute the first cell.
 
 ## Exercise 1
 

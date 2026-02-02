@@ -8,11 +8,10 @@
 
 - Week 1
     - [Monday](week1_monday.pdf)
-  
-<!--   
-    - [Thursday](week1_thursday.pdf)
 - Week 2
     - [Monday](week2_monday.pdf)
+
+<!--   
     - [Thursday](week2_thursday.pdf)
 - Week 3
     - [Monday](week3_monday.pdf)
