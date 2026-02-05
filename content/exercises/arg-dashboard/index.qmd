@@ -4,6 +4,17 @@ title: Browsing ARGs
 
 ## Exercise setup
 
+git clone git@github.com:munch-group/arg-dashboard
+
+cd arg-dashboard
+
+pixi shell
+
+pixi run install-dev
+
+
+------
+
 Make a folder called `arg-dashboard`
 
     mkdir arg-dashboard
@@ -22,7 +33,7 @@ Add the `munch-group` channel:
 
 Install the packages:
 
-    pixi add jupyter nodejs "jupyter-server-proxy>=4,<5" argdash
+    pixi add arg-dashboard
 
 Download the notebook to by running this command in your `arg-dashboard` folder:
 
