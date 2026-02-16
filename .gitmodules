@@ -1,3 +1,6 @@
 [submodule "content/practicals/pca-admixture-exercise"]
 	path = content/practicals/pca-admixture-exercise
 	url = git@github.com:munch-group/pca-admixture-exercise
+[submodule "content/practicals/psmc-exercise"]
+	path = content/practicals/psmc-exercise
+	url = git@github.com:munch-group/psmc-exercise
