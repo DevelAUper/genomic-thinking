@@ -19,29 +19,30 @@ book:
     - index.qmd
     - about.qmd
     - weekplan.qmd
+    - exercises.qmd
     # - curriculum.qmd
     # - exam.qmd
     - slides_2026/slides.qmd
     # - part: "Lecture notes"
     #   chapters:
     #   - lecture_notes/coalescent.qmd
-    - part: "Exercises"
-      chapters: 
-      - exercises/cluster_practicals/index.qmd
-      - exercises/mapping_and_calling/index.qmd
-      - exercises/phasing/index.qmd
-      - exercises/arg-dashboard/index.qmd
-      # - exercises/arg_and_smc/index.qmd
-      - exercises/historical_pop_size/index.qmd
-      - exercises/population_structure/index.qmd
-      - exercises/admixture/index.qmd
-      - exercises/tree_sequences/index.qmd
-      - exercises/selection/index.qmd
-      - exercises/archaic_humans/index.qmd
-#      - exercises/f_statistics/index.qmd
-      - exercises/GWAS_QC/index.qmd
-      - exercises/GWAS_association/index.qmd
-      - exercises/heritability/index.qmd
+#     - part: "Exercises"
+#       chapters: 
+#       - exercises/cluster_practicals/index.qmd
+#       - exercises/mapping_and_calling/index.qmd
+#       - exercises/phasing/index.qmd
+#       - exercises/arg-dashboard/index.qmd
+#       # - exercises/arg_and_smc/index.qmd
+#       - exercises/historical_pop_size/index.qmd
+#       - exercises/population_structure/index.qmd
+#       - exercises/admixture/index.qmd
+#       - exercises/tree_sequences/index.qmd
+#       - exercises/selection/index.qmd
+#       - exercises/archaic_humans/index.qmd
+# #      - exercises/f_statistics/index.qmd
+#       - exercises/GWAS_QC/index.qmd
+#       - exercises/GWAS_association/index.qmd
+#       - exercises/heritability/index.qmd
 
 crossref:
   sec-prefix: "exercise"

@@ -4,3 +4,6 @@
 [submodule "content/practicals/psmc-exercise"]
 	path = content/practicals/psmc-exercise
 	url = git@github.com:munch-group/psmc-exercise
+[submodule "content/practicals/relate-tree-exercise"]
+	path = content/practicals/relate-tree-exercise
+	url = git@github.com:munch-group/relate-tree-exercise

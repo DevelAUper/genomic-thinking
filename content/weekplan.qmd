@@ -56,9 +56,10 @@ panels: true
 
 **(Week 9)**
 
-**Monday:** *HMMs, ARG* [Paper on tree inference](https://www.nature.com/articles/s41588-019-0484-x) 
+**Monday:** [Relate tree sequences](exercises.qmd)
 
-**Thursday:** [Tree sequences](https://munch-group.org/docs/genomic-thinking/exercises/tree_sequences)
+**Thursday:** *HMMs, ARG* [Paper on tree inference](https://www.nature.com/articles/s41588-019-0484-x) 
+
 
 <!-- ------------------------------------------------------------------------------------- -->
 

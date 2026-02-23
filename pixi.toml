@@ -16,5 +16,6 @@ gh = ">=2.86.0,<3"
 argdash = ">=1.2.3,<2"
 jupyter-server-proxy = ">=4,<5"
 sgkit = ">=0.10.0,<0.11"
+vscodenb = ">=0.1.34,<0.2"
 
 
