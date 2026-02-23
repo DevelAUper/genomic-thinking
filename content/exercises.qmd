@@ -1,7 +1,4 @@
----
-title: Exercises
----
-
+# Exercises {.unnumbered}
 
 You run each exercise in the following way:
 
@@ -15,7 +12,7 @@ You run each exercise in the following way:
 8. The first time you execute a shell you may be prompted to select a python kernel. Choose form "Python kernels" and make sure the one you chose begins with ".pixi", not "~/.pixi".
 
 
-## Exercise repositories
+## Exercise repositories {.unnumbered}
 
 - `munch-group/pca-admixture-exercise`
 - `munch-group/psmc-exercise`
